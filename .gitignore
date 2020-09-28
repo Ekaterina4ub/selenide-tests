@@ -26,8 +26,6 @@ hs_err_pid*
 
 .gitignore
 build/downloads/
-src/main/
-src/test/java/ru/mail/pages/components/
 target/classes/
 target/generated-test-sources/
 .idea/vcs.xml
