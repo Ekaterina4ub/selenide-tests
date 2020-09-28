@@ -28,4 +28,4 @@ hs_err_pid*
 build/downloads/
 target/classes/
 target/generated-test-sources/
-.idea/vcs.xml
+.idea
